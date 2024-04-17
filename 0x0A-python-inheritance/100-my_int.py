@@ -5,6 +5,7 @@ Module with a class Myint
 =============================
 """
 
+
 class MyInt(int):
     """class that inherits from int"""
 
